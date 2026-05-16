@@ -14,17 +14,17 @@ In **AI and Machine Learning**, I focus on experiment design, evaluation pipelin
 
 ---
 
-## 🚀 AI-Powered Projects (Built with Manus)
+## 🚀 AI-Powered Projects
 
 I actively leverage **AI joint programming and AI development "partners"** to accelerate development, build complex utilities, and explore agentic workflows. By integrating AI into my development process, I have been able to rapidly prototype and deploy functional applications across various domains.
 
 | Project Name | Description | Key Technologies |
 |---|---|---|
-| **[JSON Fixer](https://github.com/reginaldcobb/json-fixer)** | A single-page utility that detects and repairs malformed JSON from LLM outputs. It validates structure, pretty-prints, and explains errors in plain English. Designed for developers and AI power users. | TypeScript, Manus AI |
-| **[The Vibe Codex](https://github.com/reginaldcobb/thevibecodex)** | An AI Coding Cheat Sheet for vibe coders. It serves as a comprehensive resource and guide for developers working alongside AI coding assistants. | TypeScript, Manus AI |
-| **[I Wish I Could Ask](https://github.com/reginaldcobb/iwishicouldask-)** | A full-stack web application built to facilitate structured Q&A, allowing users to ask questions to people and organizations. | TypeScript, Manus AI |
+| **[JSON Fixer](https://github.com/reginaldcobb/json-fixer)** | A single-page utility that detects and repairs malformed JSON from LLM outputs. It validates structure, pretty-prints, and explains errors in plain English. Designed for developers and AI power users. | TypeScript, AI |
+| **[The Vibe Codex](https://github.com/reginaldcobb/thevibecodex)** | An AI Coding Cheat Sheet for vibe coders. It serves as a comprehensive resource and guide for developers working alongside AI coding assistants. | TypeScript,  AI |
+| **[I Wish I Could Ask](https://github.com/reginaldcobb/iwishicouldask-)** | A full-stack web application built to facilitate structured Q&A, allowing users to ask questions to people and organizations. | TypeScript,  AI |
 
-Beyond these highlighted repositories, I have utilized Manus to develop several other tools, including **HomeRadar** (a real estate tracking utility), **Nutriplan** (a nutritional planning application), **Fantasy Football Toolkit & ETL** (data pipelines for fantasy sports), **AlphaTracker** (a financial tracking app), and **TagMirror** (an iOS application to scan and compare product tags).
+Beyond these highlighted repositories, I have utilized various AI tools to develop several other tools, including **HomeRadar** (a real estate tracking utility), **Nutriplan** (a nutritional planning application), **Fantasy Football Toolkit & ETL** (data pipelines for fantasy sports), **AlphaTracker** (a financial tracking app), and **TagMirror** (an iOS application to scan and compare product tags).
 
 ---
 
@@ -52,7 +52,7 @@ My technology stack is diverse, allowing me to build end-to-end systems from emb
 | **Languages** | Python, TypeScript, JavaScript, HTML/CSS, Dart, C++, Bicep, Swift |
 | **Frontend Frameworks** | React Native, Ionic 6, Flutter, HTML/CSS, TypeScript |
 | **Backend & Cloud** | FastAPI, Django, PostgreSQL, Azure App Service, Vercel |
-| **ML/AI** | OpenCV, ONNX, TensorRT, OpenVINO, embeddings, Manus AI, Jupyter Notebooks |
+| **ML/AI** | OpenCV, ONNX, TensorRT, OpenVINO, embeddings, Manus, Claude, Gemini, Copilot AI, Jupyter Notebooks |
 | **Embedded & Hardware** | Jetson Nano, Arduino, IoT devices, Fritzing |
 | **Tooling & Architecture** | GitHub Actions, Linux systems, experiment tracking, Markdown documentation |
 
