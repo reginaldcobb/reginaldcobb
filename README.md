@@ -2,17 +2,17 @@
 
 Founder of **Cobb Innovation Hangar** — where aviation‑grade systems thinking meets Software and AI experimentation, compute and hardware systems exploration, and having fun!
 
-I’m a Python‑curious engineer with a background in building **computer‑vision pipelines**, **embedded AI systems**, **game engines**, and **cross‑platform applications**. My current work focuses on empirical ML research, robust systems architecture, and building tools with **Manus AI**. I value clarity, craftsmanship, and momentum, and I am driven by a desire to understand how things work beneath the surface to turn complexity into something simple, elegant, and useful.
+I’m a versatile engineer with a broad background that spans **full-stack web and mobile development**, **backend systems architecture**, **computer‑vision pipelines**, and **embedded hardware systems**. My work bridges the gap between robust software engineering and empirical machine learning research. I value clarity, craftsmanship, and momentum, and I am driven by a desire to understand how things work beneath the surface to turn complexity into something simple, elegant, and useful.
 
 ---
 
 ## 🧩 Technical Focus Areas  
 
-My technical expertise spans across several domains, emphasizing both robust engineering and experimental research. In **Empirical ML Research**, I focus on experiment design, evaluation pipelines, and reproducible workflows. My work in **Python Systems Engineering** involves building engines, renderers, UI frameworks, and automation tools.
+My technical expertise spans across several domains, emphasizing both robust engineering and experimental research. In **Full-Stack & Cross-Platform Development**, I build responsive web applications and mobile apps using modern frameworks. My **Backend & Systems Engineering** work involves building robust APIs, data pipelines, and automation tools using Python and cloud services.
 
-I have significant experience with **Computer Vision and Edge AI**, utilizing tools like OpenCV, Jetson Nano, ONNX, TensorRT, and OpenVINO. This ties into my interest in **Model Behavior Analysis**, where I work with embeddings, feature extraction, and small‑model probing. Additionally, I explore **Adversarial Robustness and Control**, studying computer vision edge cases, sensor noise, and various failure modes.
+In **Empirical ML Research**, I focus on experiment design, evaluation pipelines, and reproducible workflows. I have significant experience with **Computer Vision and Edge AI**, utilizing tools like OpenCV, Jetson Nano, ONNX, TensorRT, and OpenVINO. This ties into my interest in **Model Behavior Analysis**, where I work with embeddings, feature extraction, and small‑model probing. 
 
-On the software development side, I specialize in **Cross‑Platform App Development** using React Native, Ionic 6, Flutter, and TypeScript. My approach to **Systems Architecture** emphasizes modular repositories, deterministic loops, and reproducible builds.
+Additionally, I explore **Adversarial Robustness and Control**, studying computer vision edge cases, sensor noise, and various failure modes. My approach to **Systems Architecture** emphasizes modular repositories, deterministic loops, and reproducible builds.
 
 ---
 
@@ -32,10 +32,11 @@ Beyond these highlighted repositories, I have utilized Manus to develop several 
 
 ## 🚧 Representative Projects (from my GitHub)
 
-My broader portfolio reflects a deep interest in systems engineering, computer vision, and empirical evaluation. 
+My broader portfolio reflects a deep interest in full-stack development, systems engineering, computer vision, and empirical evaluation. 
 
 | Project | Focus Area | Description |
 |---|---|---|
+| **MySitterHub** | Web Application | A full-stack web application designed to connect users, built with TypeScript and deployed on Vercel. |
 | **People‑Counter‑On‑Edge** | Computer Vision | An empirical CV pipeline using Intel OpenVINO. It performs real‑time inference on constrained hardware and includes robustness testing across various lighting and motion conditions. This project demonstrates an empirical evaluation mindset relevant to safety research. |
 | **Token Network** | Systems Engineering | A Python and Arcade-based project featuring deterministic logic. It includes a custom grid renderer, UI system, state machines, rule evaluation, and puzzle generation. The aviation‑inspired architecture emphasizes clarity and control, demonstrating the ability to build complex systems from scratch. |
 | **ml‑tutorial** | Machine Learning | A collection of ML experimentation notebooks covering both fundamentals and applied machine learning. It showcases my ability to structure experiments and communicate results clearly. |
@@ -50,11 +51,12 @@ My technology stack is diverse, allowing me to build end-to-end systems from emb
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, TypeScript/JavaScript, Dart, C++ |
-| **ML/AI** | OpenCV, ONNX, TensorRT, OpenVINO, embeddings, Manus AI |
-| **Frameworks** | FastAPI, Django, Arcade, React Native, Ionic 6, Flutter |
-| **Embedded** | Jetson Nano, Arduino, IoT devices |
-| **Tooling** | GitHub Actions, Linux systems, experiment tracking, Markdown documentation |
+| **Languages** | Python, TypeScript, JavaScript, HTML/CSS, Dart, C++, Bicep, Swift |
+| **Frontend Frameworks** | React Native, Ionic 6, Flutter, HTML/CSS, TypeScript |
+| **Backend & Cloud** | FastAPI, Django, PostgreSQL, Azure App Service, Vercel |
+| **ML/AI** | OpenCV, ONNX, TensorRT, OpenVINO, embeddings, Manus AI, Jupyter Notebooks |
+| **Embedded & Hardware** | Jetson Nano, Arduino, IoT devices, Fritzing |
+| **Tooling & Architecture** | GitHub Actions, Linux systems, experiment tracking, Markdown documentation |
 
 ---
 
