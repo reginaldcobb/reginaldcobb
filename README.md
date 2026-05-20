@@ -2,7 +2,7 @@
 
 Founder of **[Cobb Innovation Hangar](https://cobbinnovationhangar.com/)** — where aviation‑grade systems thinking meets Software and AI experimentation, compute and hardware systems exploration, and having fun!
 
-I’m a versatile engineer with a broad background that spans **full-stack web and mobile development**, **backend systems architecture**, **computer‑vision pipelines**, and **embedded hardware systems**. My work bridges the gap between robust software engineering and empirical machine learning research. I value clarity, craftsmanship, and momentum, and I am driven by a desire to understand how things work beneath the surface to turn complexity into something simple, elegant, and useful.
+I’m a versatile business, engineering and systems thinker with a broad background that spans **full-stack web and mobile development**, **backend systems architecture**, **computer‑vision pipelines**, and **embedded hardware systems**. My work bridges the gap between robust software engineering and empirical machine learning research. I value clarity, craftsmanship, and momentum, and I am driven by a desire to understand how things work beneath the surface to turn complexity into something simple, elegant, and useful.
 
 ---
 
@@ -22,7 +22,6 @@ I actively leverage **AI joint programming and AI development "partners"** to ac
 |---|---|---|
 | **[JSON Fixer](https://github.com/reginaldcobb/json-fixer)** | A single-page utility that detects and repairs malformed JSON from LLM outputs. It validates structure, pretty-prints, and explains errors in plain English. Designed for developers and AI power users. | TypeScript, AI |
 | **[The Vibe Codex](https://github.com/reginaldcobb/thevibecodex)** | An AI Coding Cheat Sheet for vibe coders. It serves as a comprehensive resource and guide for developers working alongside AI coding assistants. | TypeScript,  AI |
-| **[I Wish I Could Ask](https://github.com/reginaldcobb/iwishicouldask-)** | A full-stack web application built to facilitate structured Q&A, allowing users to ask questions to people and organizations. | TypeScript,  AI |
 
 Beyond these highlighted repositories, I have utilized various AI tools to develop several other tools, including **HomeRadar** (a real estate tracking utility), **Nutriplan** (a nutritional planning application), **Fantasy Football Toolkit & ETL** (data pipelines for fantasy sports), **AlphaTracker** (a financial tracking app), and **TagMirror** (an iOS application to scan and compare product tags).
 
