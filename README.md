@@ -10,7 +10,7 @@ I’m a versatile engineer with a broad background that spans **full-stack web a
 
 My technical expertise spans across several domains, emphasizing both robust engineering and experimental research. In **Full-Stack & Cross-Platform Development**, I build responsive web applications and mobile apps using modern frameworks. My **Backend & Systems Engineering** work involves building robust APIs, data pipelines, and automation tools using Python and cloud services.
 
-In **AI and Machine Learning**, I focus on experiment design, evaluation pipelines, and reproducible workflows. I have significant experience with **Computer Vision and Edge AI**, utilizing tools like OpenCV, Jetson Nano, ONNX, TensorRT, and OpenVINO.   
+In **AI and Machine Learning**, I focus on experiment design, evaluation pipelines, and reproducible workflows. I have  experience with **Computer Vision and Edge AI**, utilizing tools like OpenCV, Jetson Nano, ONNX, TensorRT, and OpenVINO and want to learn more!   
 
 ---
 
