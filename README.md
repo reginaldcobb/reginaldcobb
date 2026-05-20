@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Reginald Cobb  
 
-Founder of **Cobb Innovation Hangar** — where aviation‑grade systems thinking meets Software and AI experimentation, compute and hardware systems exploration, and having fun!
+Founder of **Cobb Innovation Hangar(https://cobbinnovationhangar.com/)** — where aviation‑grade systems thinking meets Software and AI experimentation, compute and hardware systems exploration, and having fun!
 
 I’m a versatile engineer with a broad background that spans **full-stack web and mobile development**, **backend systems architecture**, **computer‑vision pipelines**, and **embedded hardware systems**. My work bridges the gap between robust software engineering and empirical machine learning research. I value clarity, craftsmanship, and momentum, and I am driven by a desire to understand how things work beneath the surface to turn complexity into something simple, elegant, and useful.
 
